@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sujeeshkulukkallur
+- 👋 Hi, I’m Sujeesh
 - 👀 I’m interested in java, go
 - 🌱 I’m currently learning go, kubernetes
 
